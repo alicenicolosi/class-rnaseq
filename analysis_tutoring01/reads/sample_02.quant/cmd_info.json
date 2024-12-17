@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.10.3",
+    "threads": "2",
+    "index": "/workspace/class-rnaseq/datasets_reference_only/trascriptome/chr21_transcripts_index",
+    "libType": "IU",
+    "mates1": "sample_02_1.fasta.gz",
+    "mates2": "sample_02_2.fasta.gz",
+    "validateMappings": [],
+    "output": "sample_02.quant",
+    "auxDir": "aux_info"
+}
